@@ -1,31 +1,45 @@
+# Note-Taker
 
-![image](https://user-images.githubusercontent.com/51921860/201820970-46fc0417-a5e1-4604-be5b-d5dc8ba2d8ff.png)
+## Description
+    
+This application allows a user to write and save notes to it. They can title their notes and access the notes as they write new ones. The application is deployed to heroku.
 
+![badge](https://img.shields.io/badge/license-MIT-green)
 
+## Table of Contents
+    
+- [Installation](#installation)
+- [Usage](#usage)
+- [Link](#link)
+- [Questions](#questions)
+- [License](#license)
+    
+## Installation
+    
+No installation is needed.
+    
+## Usage
 
+Application Homepage:
 
-# Note Taker
-  ![Github licence](http://img.shields.io/badge/license-None-blue.svg)
-  
-  ## Description 
-  App that uses the backend to enable to user to create and delete notes
-  ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  
-  ## Installation 
-  run "npm i" then make sure the dependencies- "express" and "uuid" are installed
-  ## Usage 
-  run "node server.js" in command line and open localhost:3000.
-  ## License 
-  This project is license under None
-  ## Contributing 
-  
-  ## Tests
-  run "node server.js" in command line and open localhost:3000.
-  ## Questions
-  If you have any questions about this projects, please contact me directly at jkirbs86@github.com. You can view more of my projects at https://github.com/jkirbs86.
+![HomePageNoteTaker](https://user-images.githubusercontent.com/106570933/188257459-27dfb75c-e06b-4e06-b565-93aaf13018f0.png)
+
+Example Note:
+
+![TestNoteNoteTaker](https://user-images.githubusercontent.com/106570933/188257480-30366646-b7af-4ab7-a3ad-6d6b2b0f9722.png)
+
+## Link
+
+Application is deployed to heroku [here](https://enigmatic-island-29551.herokuapp.com/).
+
+## Questions
+
+My GitHub Page: [jackierhammer](https://github.com/jackierhammer)
+
+If you have any questions, you can email me at jackierhammer@gmail.com
+
+## License
+    
+This project is covered under the MIT license. 
+
+    
