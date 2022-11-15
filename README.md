@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/51921860/201827267-1f25017f-8b48-4be9-9434-562631d49f86.png)
+
+
 # Note Taker
   ![Github licence](http://img.shields.io/badge/license-None-blue.svg)
   
@@ -21,6 +24,5 @@
   ## Contributing 
   
   ## Tests
-  run "node server.js" in command line and open localhost:3000.
   ## Questions
   If you have any questions about this projects, please contact me directly at jkirbs86@github.com. You can view more of my projects at https://github.com/jkirbs86.
