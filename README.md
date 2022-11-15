@@ -1,3 +1,8 @@
+
+![image](https://user-images.githubusercontent.com/51921860/201820436-e07b7c2b-2fd3-4a41-a168-a65187e63f0b.png)
+
+
+
 # Note Taker
   ![Github licence](http://img.shields.io/badge/license-None-blue.svg)
   
